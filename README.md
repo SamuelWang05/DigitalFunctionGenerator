@@ -22,3 +22,6 @@ The rest of the code will be written in the Arduino IDE and will consist of some
 There are definitely some improvements that I want to make. Mainly, I want to get rid of the Arduino and work directly with the AVR. Basically, I want to pull the ATMEGA32p off of the Arduino Uno and code it directly. This will get rid of the huge amounts of abstraction going on when working with Arduino.
 
 Some other miscellaneous changes would be to add a bigger LCD screen, adding some more functions (reverse sawtooth, etc.), and being able to change things like the duty cycle.
+
+
+This idea was heavily inspired by the amazing Sine Labs YouTube channel. Check it out if you haven't already, it's absolutely amazing! 
