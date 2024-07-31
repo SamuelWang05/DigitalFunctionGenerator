@@ -6,7 +6,7 @@ using namespace std;
 
 // Define constants
 const int max_length = 128;         // Max length of the array containing values for DAC
-const int max_val = 4096;                 // Steps that the DAC is capable of
+const int max_val = 4095;                 // Steps that the DAC is capable of
 const double pi = 3.1415926535;
 
 int dacVal[max_length];             // Array to hold data bits sent to DAC
